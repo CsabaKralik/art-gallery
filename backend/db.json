@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "email": "b@b.com",
+      "password": "$2a$10$TvdC25sJsBFNKoorA9htOeLeYU3Ou07NegIxp/sY/P1vLAmtkIorm",
+      "favs": [
+        {
+          "url": "https://pixabay.com/get/gc607a1cececc1256e2e3f7a66b4739194a358e27d3bf578e19b96cbc54aac1e3fbf5d4d2587dc2aa08c7e920357a7c079069171206974dc42d608b9b3adbd039_1280.jpg",
+          "tags": "windows, design, art"
+        }
+      ]
+    },
+    {
+      "email": "a@a.com",
+      "password": "$2a$10$84YpS4Y4yQArmHOA8lrKyO78nwTfX3x3G02vyOPqlxhCYkMbhJsGK",
+      "favs": []
+    }
+  ]
+}
